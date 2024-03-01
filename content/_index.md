@@ -215,20 +215,20 @@ sections:
 
         ● Keynote Speaker at the Recommender Systems Workshop hosted by the Institute of Automation, Chinese Academy of Sciences in 2018
 
+  # - block: collection
+  #   id: selected
+  #   content:
+  #     title: Selected Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
-    id: selected
     content:
       title: Selected Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
