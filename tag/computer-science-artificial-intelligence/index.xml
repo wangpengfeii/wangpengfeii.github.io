@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science - Artificial Intelligence | Pengfei Wang</title>
+    <link>http://localhost:1313/tag/computer-science-artificial-intelligence/</link>
+      <atom:link href="http://localhost:1313/tag/computer-science-artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science - Artificial Intelligence</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Computer Science - Artificial Intelligence</title>
+      <link>http://localhost:1313/tag/computer-science-artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge</title>
+      <link>http://localhost:1313/publication/han-comprehensive-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/han-comprehensive-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Soft-Contrastive Learning via Neighborhood Ranking</title>
+      <link>http://localhost:1313/publication/ning-graph-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ning-graph-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning</title>
+      <link>http://localhost:1313/publication/dong-adaptive-2023/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dong-adaptive-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

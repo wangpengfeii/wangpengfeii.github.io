@@ -5,12 +5,116 @@
     <link>http://localhost:1313/publication-type/paper-conference/</link>
       <atom:link href="http://localhost:1313/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Paper-Conference</title>
       <link>http://localhost:1313/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>Boosting Urban Prediction via Addressing Spatial-Temporal Distribution Shift</title>
+      <link>http://localhost:1313/publication/hu-boosting-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hu-boosting-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Data Denoising Metrics in Recommender Systems</title>
+      <link>http://localhost:1313/publication/wang-tutorial-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-tutorial-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communicative MARL-based Relevance Discerning Network for Repetition-Aware Recommendation</title>
+      <link>http://localhost:1313/publication/li-communicative-2023/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-communicative-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond discrete selection: Continuous embedding space optimization for generative feature selection</title>
+      <link>http://localhost:1313/publication/xiao-beyond-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xiao-beyond-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDKG: A Reinforcement Learning Framework for Disease Diagnosis on Knowledge Graph</title>
+      <link>http://localhost:1313/publication/guo-rdkg-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/guo-rdkg-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Explainable Table Interpretation Using Multi-view Explanations</title>
+      <link>http://localhost:1313/publication/gao-towards-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gao-towards-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Round Extraction and Dynamic Role Selection Framework For Document-Level Event Extraction</title>
+      <link>http://localhost:1313/publication/zhang-multi-round-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-multi-round-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Interest Evolution Story: Applying Psychology in Query-based Recommendation for Inferring Customer Intention</title>
+      <link>http://localhost:1313/publication/qin-multi-interest-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/qin-multi-interest-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClusterEA: Scalable Entity Alignment with Stochastic Training and Normalized Mini-batch Similarities</title>
+      <link>http://localhost:1313/publication/gao-clusterea-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gao-clusterea-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent RL-based Information Selection Model for Sequential Recommendation</title>
+      <link>http://localhost:1313/publication/li-multi-agent-2022-1/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-multi-agent-2022-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent RL-based Information Selection Model for Sequential Recommendation</title>
+      <link>http://localhost:1313/publication/li-multi-agent-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-multi-agent-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation</title>
+      <link>http://localhost:1313/publication/han-modality-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/han-modality-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Knowledge Pruning and Recurrent Graph Convolution for News Recommendation</title>
+      <link>http://localhost:1313/publication/tian-joint-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tian-joint-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The World is Binary: Contrastive Learning for Denoising Next Basket Recommendation</title>
@@ -21,10 +125,50 @@
     </item>
     
     <item>
+      <title>A Session-aware DeepWalk Model for Session-based Recommendation</title>
+      <link>http://localhost:1313/publication/li-session-aware-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-session-aware-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composition-enhanced graph collaborative filtering for multi-behavior recommendation</title>
+      <link>http://localhost:1313/publication/wu-composition-enhanced-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wu-composition-enhanced-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient reinforced feature selection via early stopping traverse strategy</title>
+      <link>http://localhost:1313/publication/liu-efficient-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-efficient-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern-enhanced Contrastive Policy Learning Network for Sequential Recommendation.</title>
+      <link>http://localhost:1313/publication/tong-pattern-enhanced-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tong-pattern-enhanced-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recbole: Towards a unified, comprehensive and efficient framework for recommendation algorithms</title>
       <link>http://localhost:1313/publication/zhao-recbole-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/zhao-recbole-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the Attention: Distinguish the Discriminative and Confusable Features For Fine-grained Image Classification</title>
+      <link>http://localhost:1313/publication/shi-beyond-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shi-beyond-2020/</guid>
       <description></description>
     </item>
     
@@ -45,6 +189,38 @@
     </item>
     
     <item>
+      <title>Bidirectional Dependency-Guided Attention for Relation Extraction</title>
+      <link>http://localhost:1313/publication/deng-bidirectional-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deng-bidirectional-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation-Enhanced Multi-Graph Attention Network for Recommendation</title>
+      <link>http://localhost:1313/publication/fan-relation-enhanced-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fan-relation-enhanced-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree structure-aware graph representation learning via integrated hierarchical aggregation and relational metric learning</title>
+      <link>http://localhost:1313/publication/qiao-tree-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/qiao-tree-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating Feature Subspace Exploration via Multi-Agent Reinforcement Learning</title>
+      <link>http://localhost:1313/publication/liu-automating-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-automating-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hierarchical Matching Network for Crime Classification</title>
       <link>http://localhost:1313/publication/wang-hierarchical-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -53,10 +229,98 @@
     </item>
     
     <item>
+      <title>Unified Collaborative Filtering over Graph Embeddings</title>
+      <link>http://localhost:1313/publication/wang-unified-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-unified-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework of Data Sharing System with Decentralized Network</title>
+      <link>http://localhost:1313/publication/wang-framework-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-framework-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-grained image classification combined with label description</title>
+      <link>http://localhost:1313/publication/shi-fine-grained-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shi-fine-grained-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical multi-dimensional attention model for answer selection</title>
+      <link>http://localhost:1313/publication/liu-hierarchical-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-hierarchical-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph convolution network with jump connection for event detection</title>
+      <link>http://localhost:1313/publication/meng-multi-graph-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/meng-multi-graph-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TMRM: Two-Stage Multi-Task Recommendation Model Boosted Feature Selection</title>
+      <link>http://localhost:1313/publication/zhu-tmrm-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhu-tmrm-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised author disambiguation using heterogeneous graph convolutional network embedding</title>
+      <link>http://localhost:1313/publication/qiao-unsupervised-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/qiao-unsupervised-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles</title>
+      <link>http://localhost:1313/publication/wang-modeling-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-modeling-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mir: Multi-Task Intra-Representation Learning for Face Classification</title>
+      <link>http://localhost:1313/publication/cheng-mir-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-mir-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Formation with Relationship Strength Based on Meta Path in Heterogeneous Network</title>
+      <link>http://localhost:1313/publication/yang-team-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yang-team-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>You are how you drive: Peer and temporal-aware representation learning for driving behavior analysis</title>
       <link>http://localhost:1313/publication/wang-you-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/wang-you-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1.8-μm DBR Lasers With Over 11-nm Continous Wavelength Tuning Range for Multi-Species Gas Detection</title>
+      <link>http://localhost:1313/publication/yu-18-m-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yu-18-m-2017/</guid>
       <description></description>
     </item>
     
@@ -77,6 +341,14 @@
     </item>
     
     <item>
+      <title>HLBPR: A Hybrid Local Bayesian Personal Ranking Method</title>
+      <link>http://localhost:1313/publication/chen-hlbpr-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-hlbpr-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Hierarchical Representation Model for NextBasket Recommendation</title>
       <link>http://localhost:1313/publication/wang-learning-2015/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
@@ -85,22 +357,19 @@
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Next Basket Recommendation with Neural Networks.</title>
+      <link>http://localhost:1313/publication/wan-next-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wan-next-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Retail Transaction Data for Personalized Shopping Recommendation</title>
+      <link>http://localhost:1313/publication/wang-modeling-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-modeling-2014/</guid>
+      <description></description>
     </item>
     
   </channel>
