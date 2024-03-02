@@ -1,0 +1,53 @@
+---
+title: Dynamic Spatio-Temporal Graph-Based CNNs for Traffic Flow Prediction
+authors:
+- Ken Chen
+- Fei Chen
+- Baisheng Lai
+- Zhongming Jin
+- Yong Liu
+- Kai Li
+- Long Wei
+- Pengfei Wang
+- Yandong Tang
+- Jianqiang Huang
+- Xian-Sheng Hua
+date: '2020-01-01'
+publishDate: '2024-03-02T12:16:26.517874Z'
+publication_types:
+- article-journal
+publication: '*IEEE Access*'
+doi: 10.1109/ACCESS.2020.3027375
+abstract: Forecasting future traffic flows from previous ones is a challenging problem
+  because of their complex and dynamic nature of spatio-temporal structures. Most
+  existing graph-based CNNs attempt to capture the static relations while largely
+  neglecting the dynamics underlying sequential data. In this article, we present
+  dynamic spatio-temporal graph-based CNNs (DST-GCNNs) by learning expressive features
+  to represent spatio-temporal structures and predict future traffic flows from surveillance
+  video data. In particular, DST-GCNN is a two stream network. In the flow prediction
+  stream, we present a novel graph-based spatio-temporal convolutional layer to extract
+  features from a graph representation of traffic flows. Then several such layers
+  are stacked together to predict future flows over time. Meanwhile, the relations
+  between traffic flows in the graph are often time variant as the traffic condition
+  changes over time. To capture the graph dynamics, we use the graph prediction stream
+  to predict the dynamic graph structures, and the predicted structures are fed into
+  the flow prediction stream. Experiments on real datasets demonstrate that the proposed
+  model achieves competitive performances compared with the other state-of-the-art
+  methods.
+tags:
+- Computational modeling
+- Convolution
+- convolutional neural network
+- Data models
+- Feature extraction
+- Forecasting
+- Graph neural networks
+- Predictive models
+- Sensors
+- spatio-temporal graph
+- time series regression
+- traffic forecasting
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/9207934?denied=
+---
