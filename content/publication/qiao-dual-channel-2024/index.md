@@ -1,0 +1,49 @@
+---
+title: A Dual-channel Semi-supervised Learning Framework on Graphs via Knowledge Transfer
+  and Meta-learning
+authors:
+- Ziyue Qiao
+- Pengyang Wang
+- Pengfei Wang
+- Zhiyuan Ning
+- Yanjie Fu
+- Yi Du
+- Yuanchun Zhou
+- Jianqiang Huang
+- Xian-Sheng Hua
+- Hui Xiong
+date: '2024-01-01'
+publishDate: '2024-03-02T12:16:27.064397Z'
+publication_types:
+- article-journal
+publication: '*ACM Transactions on the Web*'
+doi: 10.1145/3577033
+abstract: This article studies the problem of semi-supervised learning on graphs,
+  which aims to incorporate ubiquitous unlabeled knowledge (e.g., graph topology,
+  node attributes) with few-available labeled knowledge (e.g., node class) to alleviate
+  the scarcity issue of supervised information on node classification. While promising
+  results are achieved, existing works for this problem usually suffer from the poor
+  balance of generalization and fitting ability due to the heavy reliance on labels
+  or task-agnostic unsupervised information. To address the challenge, we propose
+  a dual-channel framework for semi-supervised learning on Graphs via Knowledge Transfer
+  between independent supervised and unsupervised embedding spaces, namely, GKT. Specifically,
+  we devise a dual-channel framework including a supervised model for learning the
+  label probability of nodes and an unsupervised model for extracting information
+  from massive unlabeled graph data. A knowledge transfer head is proposed to bridge
+  the gap between the generalization and fitting capability of the two models. We
+  use the unsupervised information to reconstruct batch-graphs to smooth the label
+  probability distribution on the graphs to improve the generalization of prediction.
+  We also adaptively adjust the reconstructed graphs by encouraging the label-related
+  connections to solidify the fitting ability. Since the optimization of the supervised
+  channel with knowledge transfer contains that of the unsupervised channel as a constraint
+  and vice versa, we then propose a meta-learning-based method to solve the bi-level
+  optimization problem, which avoids the negative transfer and further improves the
+  model’s performance. Finally, extensive experiments validate the effectiveness of
+  our proposed framework by comparing state-of-the-art algorithms.
+tags:
+- meta learning
+- Social network
+links:
+- name: URL
+  url: https://doi.org/10.1145/3577033
+---
