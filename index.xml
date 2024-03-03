@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Pengfei Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Pengfei Wang</title>
-      <link>http://localhost:1313/</link>
-    </image>
-    
     <item>
       <title>Example Talk</title>
       <link>http://localhost:1313/talk/example-talk/</link>
@@ -224,7 +218,7 @@
     </item>
     
     <item>
-      <title>A Revisiting Study of Appropriate Offline Evaluation for Top- textitN Recommendation Algorithms</title>
+      <title>A Revisiting Study of Appropriate Offline Evaluation for Top-N Recommendation Algorithms</title>
       <link>http://localhost:1313/publication/zhao-revisiting-2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/zhao-revisiting-2023/</guid>
@@ -855,7 +849,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-825164379&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-147968253&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -865,7 +859,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-825164379&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-147968253&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
