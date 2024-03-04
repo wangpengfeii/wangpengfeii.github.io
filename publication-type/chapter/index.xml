@@ -5,36 +5,12 @@
     <link>http://localhost:1313/publication-type/chapter/</link>
       <atom:link href="http://localhost:1313/publication-type/chapter/index.xml" rel="self" type="application/rss+xml" />
     <description>Chapter</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Chapter</title>
       <link>http://localhost:1313/publication-type/chapter/</link>
     </image>
-    
-    <item>
-      <title>Unifying Human Mobility Forecasting and Trajectory Semantics Augmentation via Hawkes Process Based LSTM</title>
-      <link>http://localhost:1313/publication/banerjee-proceedings-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/banerjee-proceedings-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Syntactic Dependency Tree Reasoning for Target-Oriented Opinion Word Extraction</title>
-      <link>http://localhost:1313/publication/farkas-reinforcement-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/farkas-reinforcement-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leveraging Label Semantics and Correlations for Judgment Prediction</title>
-      <link>http://localhost:1313/publication/dou-leveraging-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dou-leveraging-2020/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A Recurrent Attention Network for Judgment Prediction</title>
@@ -53,26 +29,10 @@
     </item>
     
     <item>
-      <title>Factorizing Sequential and Historical Purchase Data for Basket Recommendation</title>
-      <link>http://localhost:1313/publication/ma-factorizing-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ma-factorizing-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>How to Use the Social Media Data in Assisting Restaurant Recommendation</title>
       <link>http://localhost:1313/publication/gao-how-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/gao-how-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-task Representation Learning for Demographic Prediction</title>
-      <link>http://localhost:1313/publication/ferro-multi-task-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ferro-multi-task-2016/</guid>
       <description></description>
     </item>
     

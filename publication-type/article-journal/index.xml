@@ -5,36 +5,12 @@
     <link>http://localhost:1313/publication-type/article-journal/</link>
       <atom:link href="http://localhost:1313/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
       <link>http://localhost:1313/publication-type/article-journal/</link>
     </image>
-    
-    <item>
-      <title>Deep Adaptive Graph Clustering via von Mises-Fisher Distributions</title>
-      <link>http://localhost:1313/publication/wang-deep-2024/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-deep-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of drying–wetting cycles on the hydromechanical behaviour of compacted coal gangue</title>
-      <link>http://localhost:1313/publication/liu-effect-2024/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-effect-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Dual-channel Semi-supervised Learning Framework on Graphs via Knowledge Transfer and Meta-learning</title>
-      <link>http://localhost:1313/publication/qiao-dual-channel-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/qiao-dual-channel-2024/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Disentangle interest trend and diversity for sequential recommendation</title>
@@ -45,34 +21,10 @@
     </item>
     
     <item>
-      <title>Reinforcement-enhanced autoregressive feature transformation: Gradient-steered search in continuous space for postfix expressions</title>
-      <link>http://localhost:1313/publication/wang-reinforcement-enhanced-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-reinforcement-enhanced-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temporal inductive path neural network for temporal knowledge graph reasoning</title>
-      <link>http://localhost:1313/publication/dong-temporal-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dong-temporal-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Num2vec: Pre-Training Numeric Representations for Time Series Forecasting in the Sensing System</title>
       <link>http://localhost:1313/publication/fan-num-2-vec-2023/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/fan-num-2-vec-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enterolactone and trabectedin suppress epithelial ovarian cancer synergistically via upregulating textlessspan style=\&#34;font-variant:small-caps;\&#34;textgreaterTHBS1textless/spantextgreater</title>
-      <link>http://localhost:1313/publication/zeng-enterolactone-2023/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zeng-enterolactone-2023/</guid>
       <description></description>
     </item>
     
@@ -93,26 +45,10 @@
     </item>
     
     <item>
-      <title>A Revisiting Study of Appropriate Offline Evaluation for Top- textitN Recommendation Algorithms</title>
+      <title>A Revisiting Study of Appropriate Offline Evaluation for Top-N Recommendation Algorithms</title>
       <link>http://localhost:1313/publication/zhao-revisiting-2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/zhao-revisiting-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban Traffic Light Control via Active Multi-Agent Communication and Supply-Demand Modeling</title>
-      <link>http://localhost:1313/publication/guo-urban-2023/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/guo-urban-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combined Use of Immune Checkpoint Inhibitors and Phytochemicals as a Novel Therapeutic Strategy against Cancer</title>
-      <link>http://localhost:1313/publication/luo-combined-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/luo-combined-2023/</guid>
       <description></description>
     </item>
     
@@ -125,34 +61,10 @@
     </item>
     
     <item>
-      <title>Dynamic High-Resolution Network for Semantic Segmentation in Remote-Sensing Images</title>
-      <link>http://localhost:1313/publication/guo-dynamic-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/guo-dynamic-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTCL-DDI: a hierarchical triple-view contrastive learning framework for drug–drug interaction prediction</title>
-      <link>http://localhost:1313/publication/zhang-htcl-ddi-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-htcl-ddi-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reinforcement learning-based denoising network for sequential recommendation</title>
       <link>http://localhost:1313/publication/tong-reinforcement-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/tong-reinforcement-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DESIRE: An efficient dynamic cluster-based forest indexing for similarity search in multi-metric spaces</title>
-      <link>http://localhost:1313/publication/zhu-desire-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhu-desire-2022/</guid>
       <description></description>
     </item>
     
@@ -165,42 +77,10 @@
     </item>
     
     <item>
-      <title>Naringenin suppresses epithelial ovarian cancer by inhibiting proliferation and modulating gut microbiota</title>
-      <link>http://localhost:1313/publication/lin-naringenin-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lin-naringenin-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reasoning over multiplex heterogeneous graph for Target-oriented Opinion Words Extraction</title>
       <link>http://localhost:1313/publication/dai-reasoning-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/dai-reasoning-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stochastic cubic-regularized policy gradient method</title>
-      <link>http://localhost:1313/publication/wang-stochastic-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-stochastic-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trabectedin in Cancers: Mechanisms and Clinical Applications</title>
-      <link>http://localhost:1313/publication/wang-trabectedin-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-trabectedin-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CollaborEM: a self-supervised entity matching framework using multi-features collaboration</title>
-      <link>http://localhost:1313/publication/ge-collaborem-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ge-collaborem-2021/</guid>
       <description></description>
     </item>
     
@@ -221,82 +101,10 @@
     </item>
     
     <item>
-      <title>Sparse Subspace Clustering for Stream Data</title>
-      <link>http://localhost:1313/publication/chen-sparse-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-sparse-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic Spatio-Temporal Graph-Based CNNs for Traffic Flow Prediction</title>
-      <link>http://localhost:1313/publication/chen-dynamic-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-dynamic-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Overexpression of IGF2BP3 as a potential oncogene in ovarian clear cell carcinoma</title>
-      <link>http://localhost:1313/publication/liu-overexpression-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-overexpression-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Partial Feature Decorrelation for Non-IID Image classification</title>
-      <link>http://localhost:1313/publication/yu-partial-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu-partial-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suppressive activities of mangiferin on human epithelial ovarian cancer</title>
-      <link>http://localhost:1313/publication/zeng-suppressive-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zeng-suppressive-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The oncogenic functions of insulin-like growth factor 2 mRNA-binding protein 3 in human carcinomas</title>
-      <link>http://localhost:1313/publication/wang-oncogenic-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-oncogenic-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thrombospondin-1 as a potential therapeutic target: multiple roles in cancers</title>
-      <link>http://localhost:1313/publication/wang-thrombospondin-1-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-thrombospondin-1-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Modeling Temporal Dynamics of Users’ Purchase Behaviors for Next Basket Prediction</title>
       <link>http://localhost:1313/publication/wang-modeling-2019/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/wang-modeling-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pore-scale model for estimating the bimodal soil–water characteristic curve and hydraulic conductivity of compacted soils with different initial densities</title>
-      <link>http://localhost:1313/publication/chen-pore-scale-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-pore-scale-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spotting Trip Purposes from Taxi Trajectories: A General Probabilistic Model</title>
-      <link>http://localhost:1313/publication/wang-spotting-2018/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-spotting-2018/</guid>
       <description></description>
     </item>
     
@@ -313,14 +121,6 @@
       <link>http://localhost:1313/publication/zhang-learning-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/zhang-learning-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An algorithm for event detection based on social media data</title>
-      <link>http://localhost:1313/publication/cui-algorithm-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cui-algorithm-2017/</guid>
       <description></description>
     </item>
     
